@@ -1,4 +1,4 @@
-class lefthalfpyramid {
+class righthalfpyramid {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
@@ -9,7 +9,7 @@ class lefthalfpyramid {
     }
 }
 
-class invertedlefhalfpyramid {
+class invertedrighthalfpyramid {
     public static void main(String args[]) {
         for (int i = 1; i <= 5; i++) {
             for (int j = 5; j >= i; j--) {
@@ -21,3 +21,5 @@ class invertedlefhalfpyramid {
 
     }
 }
+
+
